@@ -1,0 +1,15 @@
+.cardcss{
+    padding: 5px;
+    margin: 10px;
+}
+.bt{
+    margin-left: 90%;
+    background-color: rgb(221, 48, 48);
+}
+.cc{
+    cursor: pointer;
+    background-color: rgb(233, 195, 195);
+}
+.discard{
+    background-color: rgb(230, 230, 188);
+}
