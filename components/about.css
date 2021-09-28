@@ -1,0 +1,14 @@
+.logo{
+    color: 'khaki'; 
+    font-family: 'Times New Roman, Times, serif';
+    font-size: '25px';
+    margin: '0px';
+    padding: "0px";
+  }
+
+  @media  (max-width:500px){
+      .logo{
+          font-size: 5px;
+          color: blue;
+      }
+  }
